@@ -1,6 +1,3 @@
-codeMarkdown
-
-```
 # 🚀 React Masterclass: Enterprise-Grade Application Suite
 
 Welcome to the **React Masterclass** repository! This project is a comprehensive, component-based Single Page Application (SPA) built to demonstrate core React fundamentals. It features three real-world, beautifully designed applications seamlessly integrated using React Router.
@@ -41,7 +38,6 @@ Open your terminal (Command Prompt on Windows, Terminal on Mac) and run the foll
 ```bash
 node -v
 npm -v
-```
 
 You should see version numbers like 
 
