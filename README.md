@@ -1,4 +1,4 @@
-# 🚀 React Masterclass: Enterprise-Grade Application Suite
+# 🚀 React Demo:Web Technologies-D1 slot
 
 Welcome to the **React Masterclass** repository! This project is a comprehensive, component-based Single Page Application (SPA) built to demonstrate core React fundamentals. It features three real-world, beautifully designed applications seamlessly integrated using React Router.
 
