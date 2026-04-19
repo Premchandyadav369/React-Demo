@@ -39,4 +39,5 @@ Open your terminal (Command Prompt on Windows, Terminal on Mac) and run the foll
 node -v
 npm -v
 
-### Refer Document for more info to setup ###
+
+Refer Document for more info to setup whole project
